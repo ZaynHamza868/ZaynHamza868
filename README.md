@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Zayn Hamza
 
-🤖 **Machine Learning Enthusiast | Data Science Practitioner | AI Explorer**  
+🤖 **Senior Machine Learning Engineer | Al Solutions Architect | Cloud-Nalive MLOps Specialist**  
 📧 **Email:** [zaynhamza868@gmail.com](mailto:zaynhamza868@gmail.com)
 
 ---
